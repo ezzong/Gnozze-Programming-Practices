@@ -1,1 +1,11 @@
-This folder will contain the codes and the projects that I will do along with reading the book "Python Crash Course" by Eric Matthes. Hopefully I can learn a lot and get better from doing this method of learning.
+This folder will contain the codes
+and the projects that I will do
+along with reading the book
+"Python Crash Course"
+by Eric Matthes.
+
+Hopefully, I can learn a lot
+and get better from doing this
+method of learning.
+
+Have a nice day!
